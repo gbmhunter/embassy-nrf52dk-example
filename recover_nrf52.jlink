@@ -1,0 +1,10 @@
+device nRF52840_xxAA
+si SWD
+speed 4000
+connect
+halt
+unlock
+erase
+reset
+go
+q 
